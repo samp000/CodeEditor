@@ -1,8 +1,8 @@
-<h4>This code editor is made using GTK stands for GIMP toolkit<h4>
+<h3>This code editor is made using GTK stands for GIMP toolkit<h3>
 <br>
 <br>
 
-<h3>Toos and Technologies Used<h3>
+<h4>Toos and Technologies Used</h4>
 <ul>
 <li>GTK</li>
 <li>Glade Interface Designer </li>
@@ -10,9 +10,7 @@
 </ul>
 
 <br>
-<br>
-
-<h3>Information:</h3>
+<h4>Information:</h4>
 <p> This is a simple code editor in which you can write a code in following laguages.
 <ul>
 <li>C</li>
